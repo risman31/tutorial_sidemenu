@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "tutorial_sidemenu",
+	"webDir": "www",
+	"bundledWebRuntime": false
+}
